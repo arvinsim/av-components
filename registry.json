@@ -1,0 +1,14 @@
+{
+  "button": {
+    "files": ["src/components/Button.tsx", "src/utils/cn.ts"],
+    "dependencies": ["clsx", "tailwind-merge"]
+  },
+  "card": {
+    "files": ["src/components/Card.tsx", "src/utils/cn.ts"],
+    "dependencies": ["clsx", "tailwind-merge"]
+  },
+  "dialog": {
+    "files": ["src/components/Dialog.tsx", "src/utils/cn.ts"],
+    "dependencies": ["clsx", "tailwind-merge"]
+  }
+}

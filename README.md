@@ -17,6 +17,11 @@ A React and TailwindCSS component library with a light green theme. This library
 npm install av-components
 ```
 
+**Peer Dependencies:** This library requires React 18 or 19:
+```bash
+npm install react react-dom
+```
+
 ## Usage
 
 ### Basic Setup
